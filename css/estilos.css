@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0
+}
+p{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+h1{
+    color: #6DB42D;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+p1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+  }
+  .caja6{
+    margin: auto;
+}
+.lu{
+    float: left;
+  }
+  .gris{
+    background-color: gray;
+    height: 250px;
+  }
+.gris2{
+    background-color: #E8E8E8;
+  }
+  
